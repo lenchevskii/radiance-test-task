@@ -1,2 +1,4 @@
-# radiance-test-task
-Compile Free TON Wallet.
+## Radiance Test Task
+
+- [x] Compile Free TON Wallet
+- [x] Send transaction
